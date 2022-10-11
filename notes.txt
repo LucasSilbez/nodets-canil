@@ -1,0 +1,1 @@
+start-dev: nodemon -e ts,json,mustache src/server.ts
